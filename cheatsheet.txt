@@ -24,3 +24,7 @@ mv
 mv file_name folder_name
 mv file_name new_file_name
 
+open filename
+-> opens a file
+
+
